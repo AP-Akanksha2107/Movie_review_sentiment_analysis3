@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#FF4B4B"        # Custom red accent
+backgroundColor = "#F5F5F5"     # Light gray background
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#000000"
+font = "sans serif"             # Options: sans serif, serif, monospace
+
+[server]
+headless = true
+
+[client]
+toolbarMode = "minimal"
