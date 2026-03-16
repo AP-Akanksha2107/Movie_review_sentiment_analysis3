@@ -1,0 +1,12 @@
+pip>=24.0
+
+streamlit>=1.35.0
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+joblib
+markdown-it-py==2.2.0
+plotly
